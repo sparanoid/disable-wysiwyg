@@ -26,6 +26,4 @@
  * @since Disable_WYSIWYG 1.0.0
  */
 
-add_filter('user_can_richedit', false);
-
-?>
+add_filter( 'user_can_richedit', '__return_false' );
