@@ -4,8 +4,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: admin, administration, content, contents, excerpt, excerpts, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing, wysiwyg, editor, visual, visual editor, TinyMCE
 Requires at least: 1.5
-Tested up to: 4.4
-Stable tag: 1.0.5
+Tested up to: 4.5
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,6 +37,9 @@ Old-styled WordPress Mu:
 
 == Upgrade Notice ==
 
+= 1.0.6 =
+* Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
+
 = 1.0.5 =
 * Compatibility check for 4.4, nothing new, just bump version to tell everyone this plugin still works.
 
@@ -56,6 +59,9 @@ Old-styled WordPress Mu:
 * First release
 
 == Changelog ==
+
+= 1.0.6 =
+* Compatibility check for 4.5, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.0.5 =
 * Compatibility check for 4.4, nothing new, just bump version to tell everyone this plugin still works.
