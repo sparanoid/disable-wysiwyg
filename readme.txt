@@ -1,11 +1,11 @@
 === Disable WYSIWYG ===
 
 Contributors: Sparanoid
-Donate link: http://sparanoid.com/donate/
+Donate link: https://sparanoid.com/donate/
 Tags: admin, administration, content, contents, excerpt, excerpts, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing, wysiwyg, editor, visual, visual editor, TinyMCE
 Requires at least: 1.5
-Tested up to: 4.7
-Stable tag: 1.0.7
+Tested up to: 5.0
+Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -15,7 +15,7 @@ Disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently fo
 
 Disable WYSIWYG sets `user_can_richedit` to `false` that disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever. This plugin also works fine with multisite enabled WordPress (aka. WordPress Mu).
 
-More information please visit my [site](http://sparanoid.com/work/disable-wysiwyg/).
+More information please visit my [site](https://sparanoid.com/work/disable-wysiwyg/).
 
 == Installation ==
 
@@ -36,6 +36,9 @@ Old-styled WordPress Mu:
 2. That's all.
 
 == Upgrade Notice ==
+
+= 1.0.8 =
+* Starting from WordPress 5.0, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
 
 = 1.0.7 =
 * Compatibility check for 4.6 and 4.7, nothing new, just bump version to tell everyone this plugin still works.
@@ -62,6 +65,9 @@ Old-styled WordPress Mu:
 * First release
 
 == Changelog ==
+
+= 1.0.8 =
+* Starting from WordPress 5.0, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
 
 = 1.0.7 =
 * Compatibility check for 4.6 and 4.7, nothing new, just bump version to tell everyone this plugin still works.
