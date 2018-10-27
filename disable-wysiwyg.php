@@ -3,19 +3,19 @@
  * @package   Disable_WYSIWYG
  * @author    Tunghsiao Liu <t@sparanoid.com>
  * @license   GPL-2.0+
- * @link      http://sparanoid.com/
+ * @link      https://sparanoid.com/
  * @copyright Sparanoid
  *
  * @wordpress-plugin
  * Plugin Name:       Disable WYSIWYG
- * Plugin URI:        http://sparanoid.com/work/disable-wysiwyg/
+ * Plugin URI:        https://sparanoid.com/work/disable-wysiwyg/
  * Description:       Disable TinyMCE Visual Editor (WYSIWYG editor) totally completely permanently forever
- * Version:           1.0.7
+ * Version:           1.0.8
  * Author:            Tunghsiao Liu
- * Author URI:        http://sparanoid.com/
+ * Author URI:        https://sparanoid.com/
  * Text Domain:       disable-wysiwyg
  * License:           GPL2+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License URI:       https://www.gnu.org/licenses/gpl-2.0.txt
  * Domain Path:       /languages
  * GitHub Plugin URI: https://github.com/sparanoid/disable-wysiwyg
  */
