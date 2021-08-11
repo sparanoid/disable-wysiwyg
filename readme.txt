@@ -38,7 +38,7 @@ Old-styled WordPress Mu:
 == Upgrade Notice ==
 
 = 1.0.9 =
-* Starting from WordPress 5.8, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
+* Compatibility check for 5.8, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.0.8 =
 * Starting from WordPress 5.0, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
@@ -70,7 +70,7 @@ Old-styled WordPress Mu:
 == Changelog ==
 
 = 1.0.9 =
-* Starting from WordPress 5.8, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
+* Compatibility check for 5.8, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.0.8 =
 * Starting from WordPress 5.0, you need an additional plugin Classic Editor by Automattic to disable Gutenberg first.
