@@ -4,7 +4,7 @@ Contributors: Sparanoid
 Donate link: https://sparanoid.com/donate/
 Tags: admin, administration, content, contents, excerpt, excerpts, feeds, html, multisite, page, pages, plugin, plugins, post, posts, text, title, wpmu, writing, wysiwyg, editor, visual, visual editor, TinyMCE
 Requires at least: 1.5
-Tested up to: 5.0
+Tested up to: 5.8
 Stable tag: 1.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
